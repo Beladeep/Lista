@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="7TV.hu",TV7 Bekescsaba (360p)
+#EXTINF:-1 tvg-id="7TV.hu",provider (360p)
 http://provider-tv.xyz:8080/play/live.php?mac=00:1A:79:31:80:E7&stream=70930&extension=ts
 #EXTINF:-1 tvg-id="16tvBudapest.hu",16tv Budapest (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
