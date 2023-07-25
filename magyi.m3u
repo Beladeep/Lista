@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AMC.hu" tvg-name="HU: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d63d8ce131e79a2ee2d93a55fee4d5a7.png" group-title="Hungary ➾ Movie",HU: AMC
+#EXTINF:-1 tvg-id="AMC.hu" tvg-name="HU: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d63d8ce131e79a2ee2d93a55fee4d5a7.png" group-title="Hungary ➾ Movie",HU: kAMC
 http://aanax.com:8080/Johnwick/H7JsFMaXYScQJBrG/72597
 #EXTINF:-1 tvg-id="" tvg-name="HU: Arena 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d07a5ee1eb8706c76031e09f4a252277.png" group-title="Hungary ➾ Sports",HU: Arena 4
 http://aanax.com:8080/Johnwick/H7JsFMaXYScQJBrG/280262
